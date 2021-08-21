@@ -232,3 +232,6 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+@media (min-width: 43.75em){ 
+    font-size: 4.5rem;
+    
